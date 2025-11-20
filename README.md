@@ -27,7 +27,7 @@ Startup 2
 
 Name | Student ID | Feature Contribution |
 Zulfu|2413846|N /A|
-Khalid|N / A|N /A|
+Khalid|2427342|N /A|
 Hayden|N / A|N /A|
 Nezdhet|N / A|N /A|
 
