@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #f5f5f5;
+}
+
+/* Main container uses flexbox column to stack header and content vertically */
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Header with centered horizontal links */
+header {
+    background-color: #f5f5f5;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+.links {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    color: #333;
+    font-size: 14px;
+}
+
+.links span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Main layout: sidebar takes fixed width, content area fills remaining space */
+.main {
+    display: flex;
+    gap: 30px;
+    flex: 1;
+}
+
+/* Sidebar with vertical links */
+.sidebar {
+    background-color: #f5f5f5;
+    width: 180px;
+    padding: 30px 15px;
+}
+
+.sidebar .links {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+/* Content area centers the three columns both horizontally and vertically */
+.content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+
+/* Three equal-width columns with labels above boxes */
+.columns {
+    display: flex;
+    gap: 40px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.label {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box {
+    background-color: #000;
+    min-height: 450px;
+    border: 2px solid #f5f5f5;
+}
