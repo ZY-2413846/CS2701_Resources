@@ -1,8 +1,16 @@
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21330958&assignment_repo_type=AssignmentRepo)
 # CS2701: Group Project 2025/26
+All CS2701 resources that will be used for labs will be here. This includes both front-end and back-end.
 
+---
+
+# Contributors
+
+---
+
+<!--
 This is a template of the README markdown (extension .md)  file. For tips on how to edit the markdown click [here](https://guides.github.com/features/mastering-markdown/)!
-
 
 Use this template to inform your clients about:
 
@@ -10,12 +18,9 @@ Use this template to inform your clients about:
 2. What are its capabilities i.e. features?
 3. How to install the code (including any dependencies)?
 4. How to run the web application?
-
----
+--> 
 
 ## Group number : B6
-
----
 
 ---
 
@@ -25,12 +30,12 @@ Startup 2
 
 ### Start-up Members:
 
-Name | Student ID | Feature Contribution |
-Zulfu|2413846|N /A|
-Khalid|2427342|N /A|
-Hayden|N / A|N /A|
-Nezdhet|2418778|N /A|
-
+| Name    | Student ID | Feature Contribution |
+|---------|------------|----------------------|
+| Zulfu   | 2413846    | N/A                  |
+| Khalid  | 2427342    | N/A                  |
+| Hayden  | N/A        | N/A                  |
+| Nezdhet | 2418778    | N/A                  |
 
 ---
 
