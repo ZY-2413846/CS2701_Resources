@@ -4,7 +4,6 @@
 
 This is a template of the README markdown (extension .md)  file. For tips on how to edit the markdown click [here](https://guides.github.com/features/mastering-markdown/)!
 
-
 Use this template to inform your clients about:
 
 1. What is this web application?
@@ -12,7 +11,6 @@ Use this template to inform your clients about:
 3. How to install the code (including any dependencies)?
 4. How to run the web application?
 --> 
----
 
 ## Group number : B6
 
