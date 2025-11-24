@@ -3,10 +3,10 @@
 # CS2701: Group Project 2025/26
 
 This is a template of the README markdown (extension .md)  file. For tips on how to edit the markdown click [here](https://guides.github.com/features/mastering-markdown/)!
--->
+
 
 Use this template to inform your clients about:
-<!-- 
+
 1. What is this web application?
 2. What are its capabilities i.e. features?
 3. How to install the code (including any dependencies)?
