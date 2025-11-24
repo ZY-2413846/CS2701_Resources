@@ -16,14 +16,11 @@ Use this template to inform your clients about:
 
 ---
 
----
-
 ## Start-up : (Start-up 1/Start-up 2) 
 
 Startup 2
 
 ### Start-up Members:
-
 
 | Name    | Student ID | Feature Contribution |
 |---------|------------|----------------------|
@@ -31,9 +28,6 @@ Startup 2
 | Khalid  | 2427342    | N/A                  |
 | Hayden  | N/A        | N/A                  |
 | Nezdhet | 2418778    | N/A                  |
-
-
----
 
 ---
 
