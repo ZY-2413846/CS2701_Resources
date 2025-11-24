@@ -10,7 +10,7 @@ Use this template to inform your clients about:
 2. What are its capabilities i.e. features?
 3. How to install the code (including any dependencies)?
 4. How to run the web application?
---!> 
+--> 
 ---
 
 ## Group number : B6
