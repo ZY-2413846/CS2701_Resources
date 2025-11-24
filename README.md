@@ -26,9 +26,12 @@ Startup 2
 ### Start-up Members:
 
 Name | Student ID | Feature Contribution |
-Zulfu|2413846|N /A| ---
-Khalid|2427342|N /A| ---
-Hayden|N / A|N /A| ---
+Zulfu|2413846|N /A|
+---
+Khalid|2427342|N /A|
+---
+Hayden|N / A|N /A|
+---
 Nezdhet|2418778|N /A|
 
 ---
