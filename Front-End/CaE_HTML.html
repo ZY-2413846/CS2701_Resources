@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wireframe Page</title>
+    <title>Community Hub</title>
     <link rel="stylesheet" href="/Design/CaE_CSS.css">
 </head>
 <body>
@@ -37,21 +37,36 @@
             <!-- Content area with three centered columns -->
             <div class="content">
                 <div class="columns">
+                    <!-- Section One: Create Post -->
                     <div class="column">
-                        <div class="label">Section One</div>
-                        <div class="box"></div>
+                        <div class="label">Create Post</div>
+                        <div class="box">
+                            <input type="text" id="postTitle" placeholder="Post Title">
+                            <textarea id="postContent" placeholder="Share your challenges and solutions..."></textarea>
+                            <button id="publishBtn">Publish Post</button>
+                        </div>
                     </div>
+
+                    <!-- Section Two: Community Posts -->
                     <div class="column">
-                        <div class="label">Section Two</div>
-                        <div class="box"></div>
+                        <div class="label">Community Posts</div>
+                        <div class="box scrollable" id="postsContainer">
+                            <p class="empty-message">No posts yet. Create the first one!</p>
+                        </div>
                     </div>
+
+                    <!-- Section Three: Education & News Feed -->
                     <div class="column">
-                        <div class="label">Section Three</div>
-                        <div class="box"></div>
+                        <div class="label">Education & News</div>
+                        <div class="box scrollable" id="educationContainer">
+                            <!-- Education links will be populated by JavaScript -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <script src="/Front-End/CaE_JS.js"></script>
 </body>
 </html>
