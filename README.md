@@ -34,14 +34,14 @@ Startup 2
 
 | Name    | Student ID | Feature Contribution |
 |---------|------------|----------------------|
-| Zulfu   | 2413846    | N/A                  |
+| Zulfu   | 2413846    | Community Hub        |
 | Khalid  | 2427342    | N/A                  |
-| Hayden  | N/A        | N/A                  |
+| Hayden  | 2458392    | N/A                  |
 | Nezdhet | 2418778    | N/A                  |
 
 ---
 
-## Project Idea: N / A
+## Project Idea: Education and Advocacy for Climate Policy Engagement
 
 ### UN Sustainable Development Goal number: UN SDG 13
 
@@ -49,17 +49,17 @@ Startup 2
 
 ### Motivation: N / A
 
-### Features: N / A
+### Features: Home Page (Page 1) - Login Page (Page 2) - Community Hub (Page 3) - Global News Hub (Page 4)
 
 ---
 
 ## Technologies
 
-1. Design:
-2. Back-end: 
-3. Front-end:
-4. Database: 
-5. Testing:
+1. Design: UI Sketches
+2. Back-end: N / A
+3. Front-end: HTML, CSS, JavaScript
+4. Database: N / A
+5. Testing: Manual Testing
 
 ---
 
