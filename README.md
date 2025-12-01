@@ -41,15 +41,25 @@ Startup 2
 
 ---
 
-## Project Idea: Education and Advocacy for Climate Policy Engagement
+## Project Idea:
 
-### UN Sustainable Development Goal number: UN SDG 13
+Education and Advocacy for Climate Policy Engagement
 
-### Problem Statement: " Communities often feel powerless in the face of climate change, unsure how to act locally. "
+### UN Sustainable Development Goal number:
 
-### Motivation: N / A
+UN SDG 13
 
-### Features: Home Page (Page 1) - Login Page (Page 2) - Community Hub (Page 3) - Global News Hub (Page 4)
+### Problem Statement:
+
+" Communities often feel powerless in the face of climate change, unsure how to act locally. "
+
+### Motivation:
+
+To create a website where local communities can come together, share news, see news and collaborate with NGO's and their government to make change happen.
+
+### Features:
+
+Home Page (Page 1) - Login Page (Page 2) - Community Hub (Page 3) - Global News Hub (Page 4)
 
 ---
 
