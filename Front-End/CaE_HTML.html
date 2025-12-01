@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Hub</title>
+    <link rel="stylesheet" href="/Design/CaE_CSS.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header with horizontal navigation links -->
+        <header>
+            <div class="links">
+                <span>Home</span>
+                <span>About</span>
+                <span>Services</span>
+                <span>Portfolio</span>
+                <span>Contact</span>
+            </div>
+        </header>
+
+        <!-- Main layout splits into sidebar and content area -->
+        <div class="main">
+            <!-- Sidebar with vertical navigation links -->
+            <aside class="sidebar">
+                <div class="links">
+                    <span>Dashboard</span>
+                    <span>Profile</span>
+                    <span>Settings</span>
+                    <span>Messages</span>
+                    <span>Analytics</span>
+                    <span>Reports</span>
+                    <span>Help</span>
+                </div>
+            </aside>
+
+            <!-- Content area with three centered columns -->
+            <div class="content">
+                <div class="columns">
+                    <!-- Section One: Create Post -->
+                    <div class="column">
+                        <div class="label">Create Post</div>
+                        <div class="box">
+                            <input type="text" id="postTitle" placeholder="Post Title">
+                            <textarea id="postContent" placeholder="Share your challenges and solutions..."></textarea>
+                            <button id="publishBtn">Publish Post</button>
+                        </div>
+                    </div>
+
+                    <!-- Section Two: Community Posts -->
+                    <div class="column">
+                        <div class="label">Community Posts</div>
+                        <div class="box scrollable" id="postsContainer">
+                            <p class="empty-message">No posts yet. Create the first one!</p>
+                        </div>
+                    </div>
+
+                    <!-- Section Three: Education & News Feed -->
+                    <div class="column">
+                        <div class="label">Education & News</div>
+                        <div class="box scrollable" id="educationContainer">
+                            <!-- Education links will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/Front-End/CaE_JS.js"></script>
+</body>
+</html>
