@@ -34,10 +34,10 @@ Startup 2
 
 | Name    | Student ID | Feature Contribution |
 |---------|------------|----------------------|
-| Zulfu   | 2413846    | N/A                  |
-| Khalid  | 2427342    | N/A                  |
-| Hayden  | N/A        | N/A                  |
-| Nezdhet | 2418778    | N/A                  |
+| Zulfu   | 2413846    | Community Hub        |
+| Khalid  | 2427342    | Climate Trends       |
+| Hayden  | N/A        | Forecast             |
+| Nezdhet | 2418778    | Alert % Prep         |
 
 ---
 
