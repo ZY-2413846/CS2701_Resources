@@ -6,7 +6,7 @@ All CS2701 resources that will be used for labs will be here. This includes both
 
 # Contributors
 
- 
+ Zulfu Yilmaz
 
 ---
 
