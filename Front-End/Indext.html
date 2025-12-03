@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Trends</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Climate Trends</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Settings</a>
+            <a href="#" id="loginBtn">Login</a>
+            <a href="#" id="registerBtn">Register</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sustainability Impact</h2>
+            <div class="metrics" id="metricsGrid"></div>
+        </section>
+
+        <section>
+            <div class="chart-card">
+                <h3>Global Temperature Trends</h3>
+                <p>Temperature anomaly (1950-2023)</p>
+                <canvas id="temperatureChart" width="900" height="300"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h3>Rainfall Patterns</h3>
+                <p>Annual precipitation trends</p>
+                <canvas id="rainfallChart" width="900" height="300"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h3>CO2 Levels</h3>
+                <p>Parts per million (ppm)</p>
+                <canvas id="co2Chart" width="900" height="300"></canvas>
+            </div>
+        </section>
+
+        <section class="info">
+            <h3>About This Data</h3>
+            <p>Climate data from 1950 to 2023.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Climate Trends</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
