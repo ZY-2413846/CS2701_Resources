@@ -21,6 +21,15 @@ header {
     background-color: #4CAF50;
     padding: 40px;
     margin: 0 0 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    color: #000000;
+    text-align: start;
+    margin: 0;
 }
 
 .links {
@@ -29,6 +38,7 @@ header {
     justify-content: center;
     color: #000000;
     font-size: 14px;
+    justify-content:flex-end;
 }
 
 .links span {
@@ -51,7 +61,7 @@ header {
 .sidebar .links {
     flex-direction: column;
     justify-content: flex-start;
-    gap: 20px;
+    gap: 30px;
 }
 
 .content {
