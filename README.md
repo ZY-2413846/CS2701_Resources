@@ -7,6 +7,7 @@ All CS2701 resources that will be used for labs will be here. This includes both
 # Contributors
 
  Zulfu Yilmaz
+ 
 
 ---
 
@@ -41,6 +42,23 @@ Startup 2
 ---
 
 ## Project Idea:
+
+Education and Advocacy for Climate Policy Engagement
+
+### UN Sustainable Development Goal number:
+
+UN SDG 13
+
+### Problem Statement:
+
+" Communities often feel powerless in the face of climate change, unsure how to act locally. "
+
+### Motivation:
+
+To create a website where local communities can come together, share news, see news and collaborate with NGO's and their government to make change happen.
+
+### Features:
+
 
 Education and Advocacy for Climate Policy Engagement
 
